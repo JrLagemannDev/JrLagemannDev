@@ -34,8 +34,6 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
 </div>
