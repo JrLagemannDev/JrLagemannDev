@@ -20,7 +20,6 @@ Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Co
 Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" style="margin:5px">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
