@@ -66,10 +66,6 @@ Entre em contato para mais informações ou se quiser colaborar! 🚀
 
 ---
 
-### 🌱 **Vamos Juntos!**  
-Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
-
-[Mente Maker](https://www.youtube.com/@mentemaker)
 
 ---
 
