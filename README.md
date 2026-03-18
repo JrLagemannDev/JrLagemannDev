@@ -14,7 +14,7 @@ Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Co
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <a href="www.linkedin.com/in/vanderlei-lagemann-junior">
-    <img src=<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=Linkedin&logoColor=blue">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=Linkedin&logoColor=blue">
 
 ### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
 Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
