@@ -52,7 +52,7 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 </p>
 
 ### 🚀 **Meus Projetos**  
-Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
+Aqui estão alguns dos meus projetos desenvolvidos. Confira:
 
 <div >
   
