@@ -55,23 +55,7 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
 
 <div >
-  <!-- Link Mente Maker -->
-  <a href="https://www.mentemaker.com.br/" target="_blank" style="font-size: 24px; font-weight: bold;">
-    🌏 Mente Maker
-  </a> <br>
-   <a href="https://github.com/Makerjunior/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🐍 Python Online
-    </a> <br>
-    <a href="https://github.com/Makerjunior/JavascriptOnline" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🧑‍💻 Javascript Online
-    </a> <br>
-    <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🎮 Jogo Snake
-    </a> <br>
-    <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
-      🕹️ Tic-Tac-Toe
-    </a> <br>
-
+  
 </div>
 
 
